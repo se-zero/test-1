@@ -1,4 +1,0 @@
-JDK18>java TestMethodOverloading 
-The maximum of 3 and 4 is 4
-The maximum of 3.0 and 5.4 is 5.4
-The maximum of 3.0, 5.4, and 10.14 is 10.14

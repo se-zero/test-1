@@ -1,2 +1,0 @@
-object1.getArea() == object2.getArea()
-object.getArea()

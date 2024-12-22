@@ -1,4 +1,0 @@
-JDK18>java TestCourse 
-Number of students in course1: 3
-Peter Jones, Chandra Singh, Jessica Wang,
-Number of students in course2: 2

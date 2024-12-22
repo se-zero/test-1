@@ -1,2 +1,0 @@
-new Loan(annualInterestRate, numberOfYears, loanAmount);
-loan.getTotalPayment()

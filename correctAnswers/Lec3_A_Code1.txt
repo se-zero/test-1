@@ -1,2 +1,0 @@
-input.nextDouble()
-Math.toDegrees(Math.acos((a * a - b * b - c * c)

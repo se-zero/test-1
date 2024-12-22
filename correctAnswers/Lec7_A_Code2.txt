@@ -1,2 +1,0 @@
-course1.getNumberOfStudents()
-course1.getStudents()

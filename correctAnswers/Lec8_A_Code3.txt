@@ -1,2 +1,0 @@
-list.add(value);
-list.size()

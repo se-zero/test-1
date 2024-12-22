@@ -1,1 +1,0 @@
-area = radius * radius * 3.14159;

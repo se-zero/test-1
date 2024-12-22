@@ -1,5 +1,0 @@
-JDK18>java SortRectangles 
-Width: 3.4 Height: 5.4 Area: 18.36 
-Width: 1.4 Height: 25.4 Area: 35.559999999999995 
-Width: 7.4 Height: 35.4 Area: 261.96 
-Width: 13.24 Height: 55.4 Area: 733.496 

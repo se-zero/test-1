@@ -1,2 +1,0 @@
-System.currentTimeMillis();
-totalSeconds / 60;

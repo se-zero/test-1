@@ -1,5 +1,0 @@
-JDK18>java TestEdible 
-Tiger: RROOAARR
-Chicken: Fry it
-Chicken: cock-a-doodle-doo
-Apple: Make apple cider

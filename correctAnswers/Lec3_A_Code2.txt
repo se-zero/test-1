@@ -1,2 +1,0 @@
-input.nextLine();
-city1.compareTo(city2) < 0

@@ -1,8 +1,0 @@
-JDK18>java TestArrayList 
-List size? 6
-Is Miami in the list? true
-The location of Denver in the list? 1
-Is the list empty? false
-[London, Xian, Paris, Seoul, Tokyo]
-Tokyo Seoul Paris Xian London 
-The area of the circle? 12.566370614359172

@@ -1,5 +1,0 @@
-Input : 3.85
-
-JDK18>java ComputeAreaWithConsoleInput 
-Enter a number for radius: 3.85
-The area for the circle of radius 3.85 is 46.566217775000005

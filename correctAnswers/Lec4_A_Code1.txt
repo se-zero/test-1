@@ -1,2 +1,0 @@
-max(i, j);
-result;

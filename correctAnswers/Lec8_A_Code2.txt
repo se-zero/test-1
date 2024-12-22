@@ -1,2 +1,0 @@
-new ArrayList<>()
-list.get(0).getArea()

@@ -1,2 +1,0 @@
-JDK18>java WriteDataWithAutoClose 
-File already exists

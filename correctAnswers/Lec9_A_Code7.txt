@@ -1,3 +1,0 @@
-new java.net.URL(URLString)
-url.openStream()
-java.net.MalformedURLException ex

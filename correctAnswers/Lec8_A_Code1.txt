@@ -1,2 +1,0 @@
-circle.getColor()
-circle.getRadius()
