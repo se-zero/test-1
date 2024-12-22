@@ -1,0 +1,7 @@
+Input : Boston 
+          Atlanta
+
+JDK18>java OrderTwoCities 
+Enter the first city: Boston 
+Enter the second city: Atlanta
+The cities in alphabetical order are Atlanta Boston 

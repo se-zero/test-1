@@ -1,0 +1,2 @@
+(int)(System.currentTimeMillis() % 10);
+input.nextInt();

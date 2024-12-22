@@ -1,0 +1,2 @@
+input.hasNext()
+input.next()

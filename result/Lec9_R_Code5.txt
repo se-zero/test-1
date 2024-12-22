@@ -1,0 +1,3 @@
+JDK18>java ReadData 
+John T. Perez 90
+Jamal K. Johnson 85

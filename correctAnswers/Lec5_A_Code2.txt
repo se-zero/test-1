@@ -1,0 +1,2 @@
+n2 = temp;
+array[0] = array[1];

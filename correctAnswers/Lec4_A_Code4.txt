@@ -1,0 +1,4 @@
+int num1, int num2
+double num1, double num2
+double num1, double num2, double num3
+max(max(num1, num2), num3)

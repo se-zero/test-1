@@ -1,0 +1,2 @@
+IllegalArgumentException ex
+CircleWithException.getNumberOfObjects()

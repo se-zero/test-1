@@ -1,0 +1,2 @@
+new double[n];
+(numbers[i] > average)

@@ -1,0 +1,3 @@
+JDK18>java ReadFileFromURL 
+Enter a URL: https://liveexample.pearsoncmg.com/LiveRun/faces/data/Lincoln.txt
+The file size is 1469 characters

@@ -1,0 +1,5 @@
+m.length
+m[i].length
+sum(int[][] m)
+m[row][column];
+total;

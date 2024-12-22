@@ -1,0 +1,7 @@
+Input : 10 3.4 5 6 1 6.5 7.8 3.5 8.5 6.3 9.5
+
+JDK18>java AnalyzeNumbers 
+Enter the numbers of items: 10
+Enter the numbers: 3.4 5 6 1 6.5 7.8 3.5 8.5 6.3 9.5
+Average is 5.75
+Number of elements above the average is 6

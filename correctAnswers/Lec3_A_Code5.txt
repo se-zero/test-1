@@ -1,0 +1,3 @@
+count < NUMBER_OF_PRIMES
+(isPrime)
+count % NUMBER_OF_PRIMES_PER_LINE == 0

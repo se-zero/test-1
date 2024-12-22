@@ -1,0 +1,2 @@
+JDK18>java Calculator 99 + 728
+99 + 728 = 827
