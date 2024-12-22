@@ -1,0 +1,9 @@
+Input : 5.75 15 25000
+
+JDK18>java TestLoanClass 
+Enter yearly interest rate, for example, 8.25: 5.75
+Enter number of years as an integer: 15
+Enter loan amount, for example, 120000.95: 25000.0
+The loan was created on Sun May 17 11:48:49 EDT 2015
+The monthly payment is 207.60
+The total payment is 37368.45

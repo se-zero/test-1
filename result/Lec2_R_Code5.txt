@@ -1,0 +1,6 @@
+Input : 18
+
+JDK18>java TestBooleanOperators 
+Enter an integer: 18
+18 is divisible by 2 and 3.
+18 is divisible by 2 or 3.

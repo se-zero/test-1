@@ -1,0 +1,9 @@
+JDK18>java TestPassArray 
+Before invoking swap
+array is {1, 2}
+After invoking swap
+array is {1, 2}
+Before invoking swapFirstTwoInArray
+array is {1, 2}
+After invoking swapFirstTwoInArray
+array is {2, 1}

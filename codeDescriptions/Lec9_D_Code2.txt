@@ -1,0 +1,17 @@
+public class TestFileClass {
+  public static void main(String[] args) {
+    java.io.File file = new java.io.File("image/us.gif");
+    System.out.println("Does it exist? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("The file has " + FILL_CODE_OR_CLICK_ANSWER + " bytes");
+    System.out.println("Can it be read? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Can it be written? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Is it a directory? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Is it a file? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Is it absolute? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Is it hidden? " + FILL_CODE_OR_CLICK_ANSWER);
+    System.out.println("Absolute path is " +
+      file.getAbsolutePath());
+    System.out.println("Last modified on " +
+      new java.util.Date(FILL_CODE_OR_CLICK_ANSWER));
+  }
+}

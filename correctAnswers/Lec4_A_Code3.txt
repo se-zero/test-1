@@ -1,0 +1,2 @@
+public static void printPrimeNumbers(int numberOfPrimes) {
+public static boolean isPrime(int number) {

@@ -1,0 +1,4 @@
+file.exists()
+new java.io.PrintWriter(file)
+output.print
+output.close()

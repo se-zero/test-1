@@ -1,0 +1,2 @@
+JDK18>java TestMax 
+The maximum between 5 and 2 is 5

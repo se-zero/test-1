@@ -1,0 +1,2 @@
+JDK18>java ShowCurrentTime 
+Current time is 13:8:25 GMT

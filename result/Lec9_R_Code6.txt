@@ -1,0 +1,4 @@
+Input : c:\book\Welcome.java NewWelcome.java Java C++
+
+JDK18>java ReplaceText c:\book\Welcome.java NewWelcome.java Java C++
+Target file NewWelcome.java already exists

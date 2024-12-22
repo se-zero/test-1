@@ -1,0 +1,3 @@
+JDK18>java TestCircleWithException 
+java.lang.IllegalArgumentException: Radius cannot be negative
+Number of objects created: 1

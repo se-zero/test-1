@@ -1,0 +1,2 @@
+new SimpleDoubleProperty(1);
+ d1.bind(d2);

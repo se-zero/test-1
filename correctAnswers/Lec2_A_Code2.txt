@@ -1,0 +1,2 @@
+new Scanner(System.in);
+input.nextDouble();
