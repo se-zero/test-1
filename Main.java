@@ -72,7 +72,7 @@ public class Main extends Application {
 	      int topicCount = codes[i - 1].length;
 	      codeDescriptions[i - 1] = new String[topicCount];
 	      for (int j = 0; j < topicCount; j++) {
-	        String fileName = "C:\\Users\\ME\\eclipse-workspace\\practice\\codeDescriptions\\" + lectures[i] + "_D_Code" + (j + 1) + ".txt";
+	        String fileName = "codeDescriptions/" + lectures[i] + "_D_Code" + (j + 1) + ".txt";
 	        try {
 	          List<String> lines = Files.readAllLines(Paths.get(fileName));
 	          codeDescriptions[i - 1][j] = String.join("\n", lines);
@@ -88,7 +88,7 @@ public class Main extends Application {
       int topicCount = codes[i - 1].length;
       correctAnswers[i - 1] = new String[topicCount];
       for (int j = 0; j < topicCount; j++) {
-        String fileName = "C:\\Users\\ME\\eclipse-workspace\\practice\\correctAnswers\\" + lectures[i] + "_A_Code" + (j + 1) + ".txt";
+        String fileName = "correctAnswers/" + lectures[i] + "_A_Code" + (j + 1) + ".txt";
         try {
           List<String> lines = Files.readAllLines(Paths.get(fileName));
           correctAnswers[i - 1][j] = String.join("\n", lines);
@@ -104,7 +104,7 @@ public class Main extends Application {
 	      int topicCount = codes[i - 1].length;
 	      outputResults[i - 1] = new String[topicCount];
 	      for (int j = 0; j < topicCount; j++) {
-	        String fileName = "C:\\Users\\ME\\eclipse-workspace\\practice\\result\\" + lectures[i] + "_R_Code" + (j + 1) + ".txt";
+	        String fileName = "result/" + lectures[i] + "_R_Code" + (j + 1) + ".txt";
 	        try {
 	          List<String> lines = Files.readAllLines(Paths.get(fileName));
 	          outputResults[i - 1][j] = String.join("\n", lines);
